@@ -1,0 +1,31 @@
+body{
+	text-align: center;
+	margin-top: 10%;
+	background: tomato;
+}
+.main{
+	max-width: 400px;
+	margin: 0 auto;
+	border: 2px solid black;
+	padding: 10px;
+	border-radius: 20px;
+}
+#ajax{
+	font-size: 25px;
+	color: white;
+	font-style: italic;
+}
+
+#button{
+	margin-bottom: 20px;
+	padding: 5px 10px;
+	background: black;
+	font-size: 15px;
+	color: white;
+	border: none;
+}
+#name{
+	color: white;
+	font-size: 15px;
+	margin-top: 10px;
+}
